@@ -97,7 +97,7 @@ Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share % us
  Optimized the size of the file using DAX Studio.
  Used Tooltips to show the trend.
 
-Soft Skills:
+# Soft Skills:
  
  Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
  Designing user-centric Dashborads with empathy in mind.
