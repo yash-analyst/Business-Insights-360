@@ -2,9 +2,9 @@
 
 Live Dashboard: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTM4MGQ1NzktNTEzZi00MWNjLWFkMmQtNTZkNjhjNjAyZTAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Home Page :
+# Home Page :
 
-View objective:
+## View objective:
 
 1. Created a Home Page fro the user to navigate to different Views in the Dashboard.
 
@@ -16,9 +16,9 @@ Values in Millions($): Values in the Dashboard are in Millions $.
 
 Sales data loaded till mmm/yy: Sales data provided in the data base is up to the date "mmm/yy".
 
-Finance View :
+# Finance View :
 
-View objective:
+## View objective:
 
 1. Created a Dashboard for Finance View
 
@@ -28,9 +28,9 @@ Profit & Loss Statement A summary of a company's revenues, expenses, and profits
 
 Top/Bottom Customers by Net Sales: The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
 
-Sales View :
+# Sales View :
 
-View objective:
+## View objective:
 
 1. Created a Dashboard for Sales View
 
@@ -42,9 +42,9 @@ Performance Matrix: Scatter Plot showing the distribution of Customers according
 
 Key Metrics by Products: Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
 
-Marketing View :
+# Marketing View :
 
-View objective:
+## View objective:
 
 1. Created a Dashboard for Marketing View
 
@@ -56,9 +56,9 @@ Performance Matrix with Dual Filters: Scatter Plot showing the distribution of C
 
 Unit Economics: Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
 
-Supply Chain View :
+# Supply Chain View :
 
-View objective:
+## View objective:
 
 1. Created a Dashboard for Supply Chain View
 
@@ -68,9 +68,9 @@ Accuracy/Net Error Trend: Monthly Distribution of Net Error and Forecast Accurac
 
 Key Metrics by Products: Distribution of Key metrics based on products for the Supply Chain Team.
 
-Executive View :
+# Executive View :
 
-View objective:
+## View objective:
 
 1. Created a Dashboard for Executive View
 
@@ -84,7 +84,7 @@ Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share % us
 
 
 
-Technical Skills:
+# Technical Skills:
  
  Proficiency in ETL methodology (Extract, Transform, Load).
  Skills to generate a date table using Power Query.
